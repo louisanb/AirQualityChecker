@@ -85,7 +85,7 @@ void loop() {
          float tData;
          int input;
          float PincData;
-         #if defined digital///////////////////////////1
+         #if defined digital////////////////////////////1
          float dig;
          dig=digitalRead(dp);
          #endif/////////////////////////////////////////2
